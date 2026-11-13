@@ -39,9 +39,11 @@ classes: wide
           <p>{{ item.summary }}</p>
           <a class="read-more" href="{{ item.url }}">Read more →</a>
         </div>
+        {% if item.image %}
         <div class="news-thumb">
-          <img src="{{ item.image | relative_url }}" alt="{{ item.image_alt }}">
+          <img src="{{ item.image | relative_url }}" alt="{{ item.image_alt }}"{% if item.image_fit == "contain" %} style="object-fit: contain; background: white;"{% endif %}>
         </div>
+        {% endif %}
       </article>
       {% endfor %}
     </div>
@@ -59,7 +61,7 @@ classes: wide
       <div class="contact-copy">
         <h2>Contact</h2>
         <p>
-          <strong>Prof. Hao Frank Yang</strong><br>
+          <strong>Dr. Hao Frank Yang</strong><br>
           Assistant Professor<br>
           Department of Civil and Systems Engineering<br>
           Whiting School of Engineering<br>

@@ -1,3 +1,26 @@
+# New entries use the JHU publication date, SafeRoads kickoff date, and NSF award date.
+- date: "2026-11-11"
+  title: "GenAI copilots for transportation decision-making"
+  summary: "With support from the NSF and National Academies, Dr. Hao Frank Yang is developing engineered AI copilots that combine transportation evidence, established models, and simulation tools to help agencies explore alternatives and make informed planning decisions."
+  url: "https://engineering.jhu.edu/case/news/civil-and-systems-engineering-experts-to-develop-genai-system-for-transportation-decision-making/"
+  image: "/assets/images/news/genai-jhu-hao-frank-yang.webp"
+  image_alt: "Dr. Hao Frank Yang, featured in the JHU news article"
+
+- date: "2026-09-14"
+  title: "SafeRoads AI advances road safety with Google.org support"
+  summary: "As technical lead of SafeRoads AI, Dr. Hao Frank Yang is helping develop a platform that combines multimodal municipal data and agentic AI to support road safety decisions. Supported by Google.org, the project works with city partners to identify risks and evaluate safety improvements with human oversight."
+  url: "https://saferoadsai.org/"
+  image: "/assets/images/news/saferoads-google-kickoff.jpg"
+  image_alt: "SafeRoads AI team at the Google.org kickoff in Washington, DC"
+
+- date: "2026-08-05"
+  title: "NSF award supports AI-driven traffic safety research"
+  summary: "Dr. Hao Frank Yang has received an NSF CDS&E award to develop the SafeTraffic Decision Copilot. The project combines multimodal foundation models, data utility theory, and uncertainty-aware analysis to predict crash risks, explain contributing factors, and recommend targeted safety interventions."
+  url: "https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2552612"
+  image: "/assets/images/news/nsf-official-logo.png"
+  image_alt: "U.S. National Science Foundation official logo"
+  image_fit: contain
+
 # Dates follow the linked news publication; NCHRP uses its official effective date.
 - date: "2026-04-09"
   title: "Paper published in Transportation Research Part C"
@@ -8,21 +31,21 @@
 
 - date: "2026-01-20"
   title: "NCHRP project awarded on generative AI for transportation planning"
-  summary: "Prof. Hao Frank Yang will lead a Johns Hopkins research project developing a primer for using generative AI models in transportation planning."
+  summary: "Dr. Hao Frank Yang will lead a Johns Hopkins research project developing a primer for using generative AI models in transportation planning."
   url: "https://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=5655"
   image: "/assets/images/news/default-transportation-ai.png"
   image_alt: "Abstract transportation AI network"
 
 - date: "2025-11-14"
-  title: "Paper accepted to NeurIPS 2025"
-  summary: "We are excited to announce that our papers have been accepted to NeurIPS 2025. Congratulations to the authors!"
+  title: "Three papers accepted to NeurIPS 2025, including two Spotlights!"
+  summary: "Three of our papers have been accepted to NeurIPS 2025, including two selected for Spotlight presentations. Congratulations to all the authors!"
   url: "https://engineering.jhu.edu/case/news/johns-hopkins-civil-and-systems-engineers-to-present-at-neurips-2025/"
   image: "/assets/images/others/neurips2025.jpg"
   image_alt: "NeurIPS logo"
 
 - date: "2025-10-14"
   title: "Paper published in IEEE TPAMI"
-  summary: "A research team led by Prof. Hao Frank Yang developed an EMOS framework to improve autonomous driving safety and efficiency."
+  summary: "A research team led by Dr. Hao Frank Yang developed an EMOS framework to improve autonomous driving safety and efficiency."
   url: "https://engineering.jhu.edu/case/news/research-team-led-by-jhus-hao-frank-yang-develops-framework-to-improve-safety-efficiency-of-autonomous-driving/"
   image: "/assets/images/research/publication/tpami_moe_3d_object_detection.jpg"
   image_alt: "Autonomous driving mixture of experts system"

@@ -1,5 +1,5 @@
 pi:
-  - name: "Prof. Hao Frank Yang"
+  - name: "Dr. Hao Frank Yang"
     title: "Principal Investigator"
     affiliation: |
       Department of Civil and System Engineering  
@@ -89,7 +89,7 @@ current:
     title: PhD Student
     desc: My research interests focus on Multimodal Large Language Model and human behavior.
     pagelink: https://www.linkedin.com/in/yichen-lin-524632360/
-    photolink: /assets/images/group/members/yichen_lin.jpg
+    photolink: /assets/images/group/members/yichen_lin_2026.jpeg
     research_area: decision
     years: 2024
     a1: 40
@@ -124,19 +124,6 @@ current:
     a3: 50
     a4: 50
 
-  - name: Bingjie Liu
-    sort_name: Liu, Bingjie
-    title: Master student
-    desc: My research interest lies in optimization, quantitative economics, machine learning, and data-driven decision analytics in complex systems. 
-    pagelink: https://www.linkedin.com/in/bingjie-undefined-617138387 
-    photolink: /assets/images/group/members/bingjie_liu.jpg
-    research_area: scaling
-    years: 2025
-    a1: 70
-    a2: 10
-    a3: 10
-    a4: 20
-
   - name: Guangpeng Wang
     sort_name: Wang, Guangpeng
     title: Master Student
@@ -166,7 +153,7 @@ current:
   - name: Ken Tian
     sort_name: Tian, Ken
     title: Undergraduate Student
-    desc: "I’m Ken Tian, an undergraduate at Johns Hopkins studying Mathematics and Applied Mathematics & Statistics. I’m currently working with Professor Yang’s group and am particularly interested in machine learning, AI agents, and their applications to real-world systems. Outside of research, I’m also interested in quantitative finance and sports analytics."
+    desc: "I’m Ken Tian, an undergraduate at Johns Hopkins studying Mathematics and Applied Mathematics & Statistics. I’m currently working with Dr. Yang’s group and am particularly interested in machine learning, AI agents, and their applications to real-world systems. Outside of research, I’m also interested in quantitative finance and sports analytics."
     pagelink: ""
     photolink: /assets/images/group/members/ken_tian.jpg
     research_area: collaborative
@@ -205,6 +192,17 @@ current:
     a4: 70
 
 alumni:
+  - name: Bingjie Liu
+    sort_name: Liu, Bingjie
+    title: Master student
+    photolink: /assets/images/group/members/bingjie_liu.jpg
+    research_area: scaling
+    years: 2025
+    a1: 70
+    a2: 10
+    a3: 10
+    a4: 20
+
   - name: Fan Yang
     sort_name: Yang, Fan
     title: Visiting PhD Student
