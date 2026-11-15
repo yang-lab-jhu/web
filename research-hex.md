@@ -128,7 +128,9 @@ classes: wide
 
 <!-- ========== Publications（按 方向 + 类型 + 年份 联动过滤） ========== -->
 <div id="pubList" class="pub-list">
-  {% assign pubs = site.data.publications | sort: "year" | reverse %}
+  {% assign pinned_pubs = site.data.publications | where: "pinned", true %}
+  {% assign other_pubs = site.data.publications | where_exp: "pub", "pub.pinned != true" | sort: "year" | reverse %}
+  {% assign pubs = pinned_pubs | concat: other_pubs %}
   {% for pub in pubs %}
   <div class="pub-item"
        data-type="{{ pub.type }}"
@@ -165,6 +167,9 @@ classes: wide
           {% endif %}
           {% if pub.doi and pub.doi != "" %}
           <a href="{{ pub.doi }}" target="_blank">[DOI]</a>
+          {% endif %}
+          {% if pub.code and pub.code != "" %}
+          <a href="{{ pub.code }}" target="_blank" rel="noopener">[Code]</a>
           {% endif %}
         </span>
       </div>
