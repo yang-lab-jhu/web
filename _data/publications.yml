@@ -110,6 +110,7 @@
   venue:  'Nature Computational Science'
   year:  2025
   type: journal
+  pinned: true
   keywords:
     - Domain Adaptation
     - Decision Support
@@ -146,3 +147,17 @@
   pdf: /assets/publications/canvas-beyond-words.pdf
   doi: https://doi.org/10.1109/TPAMI.2026.3737728
   code: https://github.com/GuanlinWU123/SIGBench-code
+
+- title: 'Towards explainable traffic flow prediction with large language models'
+  authors: Xusen Guo*, Qiming Zhang*, Junyue Jiang, Mingxing Peng, Meixin Zhu, Hao Frank Yang
+  venue: 'Communications in Transportation Research, Volume 4, Article 100150'
+  year: 2024
+  type: journal
+  keywords:
+    - Domain Adaptation
+    - Interpretable Reasoning
+    - Transportation
+  image: /assets/images/research/publication/xtp-llm.png
+  pdf: /assets/publications/xtp-llm.pdf
+  doi: https://doi.org/10.1016/j.commtr.2024.100150
+  code: https://github.com/Guoxs/xTP-LLM

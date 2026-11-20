@@ -39,12 +39,12 @@ classes: wide
 
   <div class="research-wrapper research-wrapper--collaborative alt">
     <div class="research-title-row research-title-row--right">
-      <h2>Copilot for Enhancing Decision and Collaboration</h2>
+      <h2>Copilot for Human-AI Alignment and Collaboration</h2>
     </div>
     <div class="research-section">
-      <div class="research-image research-carousel" data-research-carousel aria-label="Copilot for Enhancing Decision and Collaboration images">
+      <div class="research-image research-carousel" data-research-carousel aria-label="Copilot for Human-AI Alignment and Collaboration images">
         <div class="research-carousel-track">
-          <img class="research-carousel-slide active" src="{{ '/assets/images/research/main/collaborative-figs/benchmark_overview.png' | relative_url }}?v=20260627-001" alt="Copilot for Enhancing Decision and Collaboration benchmark overview">
+          <img class="research-carousel-slide active" src="{{ '/assets/images/research/main/collaborative-figs/benchmark_overview.png' | relative_url }}?v=20260627-001" alt="Copilot for Human-AI Alignment and Collaboration benchmark overview">
         </div>
         <div class="research-carousel-dots" aria-label="Select image">
           <button class="active" type="button" aria-label="Show image 1"></button>
