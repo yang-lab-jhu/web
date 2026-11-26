@@ -137,6 +137,19 @@ current:
     a3: 20
     a4: 50
 
+  - name: Wilber Du
+    sort_name: Du, Wilber
+    title: Undergraduate Student
+    desc: "I'm Wilber Du, an undergraduate studying Applied Mathematics & Statistics and Computer Science at Johns Hopkins University. My interests lie in the mathematical foundations of intelligence and decision-making, particularly probability, game theory, and learning in complex systems. At Yang Lab, I explore how AI agents model, reason about, and collaborate with one another in complex environments. I'm also passionate about quantitative finance, especially statistical market modeling and algorithmic trading. I also love tennis, opera, pour-over coffee, and visiting art museums."
+    pagelink: https://www.linkedin.com/in/wilber-du-259301322/
+    photolink: /assets/images/group/members/wilber_du.jpg
+    research_area: collaborative
+    years: 2026
+    a1: 50
+    a2: 50
+    a3: 50
+    a4: 50
+
   - name: Ziyan Li
     sort_name: Li, Ziyan
     title: Undergraduate Student
